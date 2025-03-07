@@ -98,131 +98,131 @@
 </table>
 
 ### зображення з текстом.jpg
-![зображення з текстом.jpg](./images/зображення з текстом.jpg)
+![зображення_з_текстом.jpg](./images/зображення з текстом.jpg)
 
 ### зображення з текстом 2x.jpg
-![зображення з текстом 2x.jpg](./images/зображення з текстом 2x.jpg)
+![зображення_з_текстом_2x.jpg](./images/зображення_з_текстом 2x.jpg)
 
 ### зображення з текстом 3x.jpg
-![зображення з текстом 3x.jpg](./images/зображення з текстом 3x.jpg)
+![зображення_з_текстом_3x.jpg](./images/зображення_з_текстом_3x.jpg)
 
-### зображення з текстом avif 50.avif
-![зображення з текстом avif 50.avif](./images/зображення з текстом avif 50.avif)
+### зображення_з_текстом_avif_50.avif
+![зображення_з_текстом_avif_50.avif](./images/зображення_з_текстом_avif_50.avif)
 
-### зображення з текстом avif 75.avif
-![зображення з текстом avif 75.avif](./images/зображення з текстом avif 75.avif)
+### зображення_з_текстом_avif_75.avif
+![зображення_з_текстом_avif_75.avif](./images/зображення_з_текстом_avif_75.avif)
 
-### зображення з текстом avif 100.avif
-![зображення з текстом avif 100.avif](./images/зображення з текстом avif 100.avif)
+### зображення_з_текстом_avif_100.avif
+![зображення_з_текстом_avif_100.avif](./images/зображення_з_текстом_avif_100.avif)
 
-### зображення з текстом mozijpeg 50.jpg
-![зображення з текстом mozijpeg 50.jpg](./images/зображення з текстом mozijpeg 50.jpg)
+### зображення_з_текстом_mozijpeg_50.jpg
+![зображення_з_текстом_mozijpeg_50.jpg](./images/зображення_з_текстом_mozijpeg_50.jpg)
 
-### зображення з текстом mozijpeg 75.jpg
-![зображення з текстом mozijpeg 75.jpg](./images/зображення з текстом mozijpeg 75.jpg)
+### зображення_з_текстом_mozijpeg_75.jpg
+![зображення_з_текстом_mozijpeg_75.jpg](./images/зображення_з_текстом_mozijpeg_75.jpg)
 
-### зображення з текстом mozijpeg 100.jpg
-![зображення з текстом mozijpeg 100.jpg](./images/зображення з текстом mozijpeg 100.jpg)
+### зображення_з_текстом_mozijpeg_100.jpg
+![зображення_з_текстом_mozijpeg_100.jpg](./images/зображення_з_текстом_mozijpeg_100.jpg)
 
-### зображення з текстом webp 50.webp
-![зображення з текстом webp 50.webp](./images/зображення з текстом webp 50.webp)
+### зображення_з_текстом_webp_50.webp
+![зображення_з_текстом_webp_50.webp](./images/зображення_з_текстом_webp_50.webp)
 
-### зображення з текстом webp 75.webp
-![зображення з текстом webp 75.webp](./images/зображення з текстом webp 75.webp)
+### зображення_з_текстом_webp_75.webp
+![зображення_з_текстом_webp_75.webp](./images/зображення_з_текстом_webp_75.webp)
 
-### зображення з текстом webp 100.webp
-![зображення з текстом webp 100.webp](./images/зображення з текстом webp 100.webp)
+### зображення_з_текстом_webp_100.webp
+![зображення_з_текстом_webp_100.webp](./images/зображення_з_текстом_webp_100.webp)
 
 ---
 
 ### скриншот.jpg
 ![скриншот.jpg](./images/скриншот.jpg)
 
-### скриншот 2x.jpg
-![скриншот 2x.jpg](./images/скриншот 2x.jpg)
+### скриншот_2x.jpg
+![скриншот_2x.jpg](./images/скриншот_2x.jpg)
 
-### скриншот 3x.jpg
-![скриншот 3x.jpg](./images/скриншот 3x.jpg)
+### скриншот_3x.jpg
+![скриншот_3x.jpg](./images/скриншот_3x.jpg)
 
-### скриншот 600.jpg
-![скриншот 600.jpg](./images/скриншот 600.jpg)
+### скриншот_600.jpg
+![скриншот_600.jpg](./images/скриншот_600.jpg)
 
-### скриншот 1200.jpg
-![скриншот 1200.jpg](./images/скриншот 1200.jpg)
+### скриншот_1200.jpg
+![скриншот_1200.jpg](./images/скриншот_1200.jpg)
 
-### скриншот avif 50.avif
-![скриншот avif 50.avif](./images/скриншот avif 50.avif)
+### скриншот_avif_50.avif
+![скриншот_avif_50.avif](./images/скриншот_avif_50.avif)
 
-### скриншот avif 75.avif
-![скриншот avif 75.avif](./images/скриншот avif 75.avif)
+### скриншот_avif_75.avif
+![скриншот_avif_75.avif](./images/скриншот_avif_75.avif)
 
-### скриншот avif 100.avif
-![скриншот avif 100.avif](./images/скриншот avif 100.avif)
+### скриншот_avif_100.avif
+![скриншот_avif_100.avif](./images/скриншот_avif_100.avif)
 
-### скриншот mozijpeg 50.jpg
-![скриншот mozijpeg 50.jpg](./images/скриншот mozijpeg 50.jpg)
+### скриншот_mozijpeg_50.jpg
+![скриншот_mozijpeg_50.jpg](./images/скриншот_mozijpeg_50.jpg)
 
-### скриншот mozijpeg 75.jpg
-![скриншот mozijpeg 75.jpg](./images/скриншот mozijpeg 75.jpg)
+### скриншот_mozijpeg_75.jpg
+![скриншот_mozijpeg_75.jpg](./images/скриншот_mozijpeg_75.jpg)
 
-### скриншот mozijpeg 100.jpg
-![скриншот mozijpeg 100.jpg](./images/скриншот mozijpeg 100.jpg)
+### скриншот_mozijpeg_100.jpg
+![скриншот_mozijpeg_100.jpg](./images/скриншот_mozijpeg_100.jpg)
 
-### скриншот webp 50.webp
-![скриншот webp 50.webp](./images/скриншот webp 50.webp)
+### скриншот_webp_50.webp
+![скриншот_webp_50.webp](./images/скриншот_webp_50.webp)
 
-### скриншот webp 75.webp
-![скриншот webp 75.webp](./images/скриншот webp 75.webp)
+### скриншот_webp_75.webp
+![скриншот_webp_75.webp](./images/скриншот_webp_75.webp)
 
-### скриншот webp 100.webp
-![скриншот webp 100.webp](./images/скриншот webp 100.webp)
+### скриншот_webp_100.webp
+![скриншот_webp_100.webp](./images/скриншот_webp_100.webp)
 
-### скриншот png.png
-![скриншот png.png](./images/скриншот png.png)
+### скриншот_png.png
+![скриншот_png.png](./images/скриншот_png.png)
 
 ---
 
 ### фото.jpg
 ![фото.jpg](./images/фото.jpg)
 
-### фото 2x.jpg
-![фото 2x.jpg](./images/фото 2x.jpg)
+### фото_2x.jpg
+![фото_2x.jpg](./images/фото_2x.jpg)
 
-### фото 3x.jpg
-![фото 3x.jpg](./images/фото 3x.jpg)
+### фото_3x.jpg
+![фото_3x.jpg](./images/фото_3x.jpg)
 
-### фото 600.jpg
-![фото 600.jpg](./images/фото 600.jpg)
+### фото_600.jpg
+![фото_600.jpg](./images/фото_600.jpg)
 
-### фото 1200.jpg
-![фото 1200.jpg](./images/фото 1200.jpg)
+### фото_1200.jpg
+![фото_1200.jpg](./images/фото_1200.jpg)
 
-### фото avif 50.avif
-![фото avif 50.avif](./images/фото avif 50.avif)
+### фото_avif_50.avif
+![фото_avif_50.avif](./images/фото_avif_50.avif)
 
-### фото avif 75.avif
-![фото avif 75.avif](./images/фото avif 75.avif)
+### фото_avif_75.avif
+![фото_avif_75.avif](./images/фото_avif_75.avif)
 
-### фото avif 100.avif
-![фото avif 100.avif](./images/фото avif 100.avif)
+### фото_avif_100.avif
+![фото_avif_100.avif](./images/фото_avif_100.avif)
 
-### фото mozijpeg 50.jpg
-![фото mozijpeg 50.jpg](./images/фото mozijpeg 50.jpg)
+### фото_mozijpeg_50.jpg
+![фото_mozijpeg_50.jpg](./images/фото_mozijpeg_50.jpg)
 
-### фото mozijpeg 75.jpg
-![фото mozijpeg 75.jpg](./images/фото mozijpeg 75.jpg)
+### фото_mozijpeg_75.jpg
+![фото_mozijpeg_75.jpg](./images/фото_mozijpeg_75.jpg)
 
-### фото mozijpeg 100.jpg
-![фото mozijpeg 100.jpg](./images/фото mozijpeg 100.jpg)
+### фото_mozijpeg_100.jpg
+![фото_mozijpeg_100.jpg](./images/фото_mozijpeg_100.jpg)
 
-### фото webp 50.webp
-![фото webp 50.webp](./images/фото webp 50.webp)
+### фото_webp_50.webp
+![фото_webp_50.webp](./images/фото_webp_50.webp)
 
-### фото webp 75.webp
-![фото webp 75.webp](./images/фото webp 75.webp)
+### фото_webp_75.webp
+![фото_webp_75.webp](./images/фото_webp_75.webp)
 
-### фото webp 100.webp
-![фото webp 100.webp](./images/фото webp 100.webp)
+### фото_webp_100.webp
+![фото_webp_100.webp](./images/фото_webp_100.webp)
 
-### фото png.png
-![фото png.png](./images/фото png.png)
+### фото_png.png
+![фото_png.png](./images/фото_png.png)
