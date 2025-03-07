@@ -116,13 +116,13 @@
 ![зображення_з_текстом_avif_100.avif](./images/зображення_з_текстом_avif_100.avif)
 
 ### зображення_з_текстом_mozijpeg_50.jpg
-![зображення_з_текстом_mozijpeg_50.jpg](./images/зображення_з_текстом_mozijpeg_50.jpg)
+![зображення_з_текстом_mozjpeg_50.jpg](./images/зображення_з_текстом_mozjpeg_50.jpg)
 
 ### зображення_з_текстом_mozijpeg_75.jpg
-![зображення_з_текстом_mozijpeg_75.jpg](./images/зображення_з_текстом_mozijpeg_75.jpg)
+![зображення_з_текстом_mozjpeg_75.jpg](./images/зображення_з_текстом_mozjpeg_75.jpg)
 
 ### зображення_з_текстом_mozijpeg_100.jpg
-![зображення_з_текстом_mozijpeg_100.jpg](./images/зображення_з_текстом_mozijpeg_100.jpg)
+![зображення_з_текстом_mozjpeg_100.jpg](./images/зображення_з_текстом_mozjpeg_100.jpg)
 
 ### зображення_з_текстом_webp_50.webp
 ![зображення_з_текстом_webp_50.webp](./images/зображення_з_текстом_webp_50.webp)
@@ -160,13 +160,13 @@
 ![скриншот_avif_100.avif](./images/скриншот_avif_100.avif)
 
 ### скриншот_mozijpeg_50.jpg
-![скриншот_mozijpeg_50.jpg](./images/скриншот_mozijpeg_50.jpg)
+![скриншот_mozjpeg_50.jpg](./images/скриншот_mozjpeg_50.jpg)
 
 ### скриншот_mozijpeg_75.jpg
-![скриншот_mozijpeg_75.jpg](./images/скриншот_mozijpeg_75.jpg)
+![скриншот_mozjpeg_75.jpg](./images/скриншот_mozjpeg_75.jpg)
 
 ### скриншот_mozijpeg_100.jpg
-![скриншот_mozijpeg_100.jpg](./images/скриншот_mozijpeg_100.jpg)
+![скриншот_mozipeg_100.jpg](./images/скриншот_mozjpeg_100.jpg)
 
 ### скриншот_webp_50.webp
 ![скриншот_webp_50.webp](./images/скриншот_webp_50.webp)
@@ -207,13 +207,13 @@
 ![фото_avif_100.avif](./images/фото_avif_100.avif)
 
 ### фото_mozijpeg_50.jpg
-![фото_mozijpeg_50.jpg](./images/фото_mozijpeg_50.jpg)
+![фото_mozjpeg_50.jpg](./images/фото_mozjpeg_50.jpg)
 
 ### фото_mozijpeg_75.jpg
-![фото_mozijpeg_75.jpg](./images/фото_mozijpeg_75.jpg)
+![фото_mozjpeg_75.jpg](./images/фото_mozjpeg_75.jpg)
 
 ### фото_mozijpeg_100.jpg
-![фото_mozijpeg_100.jpg](./images/фото_mozijpeg_100.jpg)
+![фото_mozjpeg_100.jpg](./images/фото_mozjpeg_100.jpg)
 
 ### фото_webp_50.webp
 ![фото_webp_50.webp](./images/фото_webp_50.webp)
